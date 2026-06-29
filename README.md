@@ -9,11 +9,11 @@ This project demonstrates how Microsoft Excel can be used to transform raw sales
 - Track monthly sales trends
 - Build a dashboard for easy business reporting
 
-Features 
-✔ Data Cleaning in Excel  
-✔ Pivot Tables for analysis  
-✔ Pivot Charts for visualization  
-✔ Interactive Sales Dashboard  
+ Features 
+ Data Cleaning in Excel  
+ Pivot Tables for analysis  
+ Pivot Charts for visualization  
+ Interactive Sales Dashboard  
 
  Dashboard Preview
 
